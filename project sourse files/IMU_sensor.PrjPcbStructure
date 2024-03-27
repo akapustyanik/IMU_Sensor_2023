@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=IMU_sensor_gyro.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=IMU_sensor_gyro.SchDoc|FileName=IMU_sensor_mcu.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=IMU_sensor_gyro.SchDoc|FileName=IMU_sensor_pwr.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=IMU_sensor_gyro.SchDoc|FileName=MCU_sensor_peripherial.SchDoc|SheetNumber=4

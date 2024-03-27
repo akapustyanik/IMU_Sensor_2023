@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: IMU_sensor.PcbDoc   13.09.2023  22:15:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : IMU_sensor-RoundHoles.TXT
+ASCII SlotHoles File : IMU_sensor-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             88        PTH        194.91mm (7.67inch)
+T2      0.6mm (24mil)                                             Round             2         PTH        1.25mm (0.05inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        37.24mm (1.47inch)
+T4      0.7mm (28mil)                                             Round             26        PTH        83.82mm (3.30inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        3.00mm (0.12inch)
+T6      3.2mm (126mil)                                            Round             4         PTH        81.00mm (3.19inch)
+T7      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              128
+
+Total Processing Time (hh:mm:ss) : 00:00:00
